@@ -1,0 +1,135 @@
+.main-sv{
+    margin-right: 120px;
+}
+h1{
+    color: rgb(78, 78, 78);
+}
+#section-img{
+    width: 550px;
+    height: 600px;
+    box-shadow: none;
+    border-radius: 2px;
+}
+#main-about{
+  padding-top: 40px;
+}
+#main-about p{
+    font-size: 22px;
+}
+#aside-about button{
+    width: 200px;
+    height: 40px;
+    margin-right: 250px;
+    border: none;
+    background-color: #56c7d7;
+    font-size: 16px;
+    font-family: 'roya';
+    border-radius: 4px;
+    box-shadow: 0px 0px 5px 0px #00000057;
+}
+#aside-about a{
+    color: white;
+}
+.middle{
+    background-color: #adadad;
+    overflow: hidden;
+    margin: 0px 20px 30px 20px;
+}
+.aside-mid img{
+    width: 560px;
+    height: 610px;
+    float: right;
+    margin: 40px 20px 30px 0px;
+}
+.aside-mid{
+    width: 30%;
+}
+.section-mid{
+    width: 50%;
+    float: left;
+    margin-right: 20px;
+    margin-top: 60px;
+    margin: 60px 0px 0px 30px;
+}
+h2{
+    font-family: 'titr';
+    color: rgb(78, 78, 78);
+}
+.section-mid span{
+    color: black;
+    font-family: 'roya';
+    font-size: 18px;
+    margin-right: 460px;
+}
+h3{
+    font-family: 'titr';
+    color: rgb(78, 78, 78);
+    text-align: center;
+}
+.Pre-end{
+    margin: 0px 20px 30px 20px;
+}
+#imgteam{
+    width: 250px;
+    height: 275px;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+#list-team{
+    border: 1px solid rgb(176 176 176 / 51%);
+    box-shadow: 0px 1px 3px 0px #80808066;
+    width: 20%;
+    margin: 60px 0px 20px 20px;
+    display: inline-block;
+    overflow: hidden;
+}
+#label-team{
+    margin-top: 20px;
+    text-align: center;
+    font-family: 'roya';
+    font-size: 17px;
+    color: rgb(54, 54, 54);
+}
+#team-info{
+    margin-bottom: 40px;
+    text-align: center;
+    font-family: 'roya';
+    font-size: 17px;
+    color: rgb(80, 80, 80);
+}
+.team-fs{
+    border: 1px solid rgb(176 176 176 / 51%);
+    box-shadow: 0px 1px 3px 0px #80808066;
+    width: 20%;
+    margin: 60px 110px 20px 20px;
+    display: inline-block;
+    overflow: hidden;
+}
+.main{
+    overflow: hidden;
+    margin-bottom: 30px;
+}
+.aside{
+    width: 50%;
+    margin-right: 80px;
+    margin-top: 15px;
+    font-family: 'titr';
+    float: right;
+}
+p{
+    color: rgb(111, 111, 111);
+    font-family: 'roya' ;
+    font-size: 19px;
+}
+.section{
+    width: 30%;
+    float: left;
+    margin-left: 80px;
+}
+.section img{
+    width: 100%;
+    float: left;
+    margin-top: 110px;
+    border-radius: 20px;
+    box-shadow: 1px 1px 12px 0px black;
+}

@@ -1,0 +1,135 @@
+
+.main-contact{
+    margin: 100px 40px 0px 40px;
+    height: 780px;
+}
+#aside-contact{
+    width: 58%;
+    display: inline-block;
+}
+form{
+    border:none;
+    box-shadow: 0px 0px 6px 0px #808080bd;
+    border-radius: 5px;
+    overflow: hidden;
+}
+legend {
+    color: #3e8d97;
+    font-size: 20px;
+    font-family: 'roya';
+    display: flex;
+    align-items: center;
+}
+legend img {
+    width: 40px;
+    margin-right: 20px;
+}
+#call {
+    padding: 10px 10px;
+}
+label img{
+    width: 10px;
+    margin-right: 20px;
+}
+label{
+    color: #5c6162;
+    font-size: 15px;
+    font-family: 'roya';
+    display: flex;
+    align-items: center;
+}
+#label{
+    display: inline-block;
+}
+.label2{
+    margin-right: 330px;
+}
+input{
+    padding: 7px 7px 7px 195px;
+    border-radius: 3px;
+    border: 1px solid rgb(192, 192, 192);
+    font-size: 15px;
+    margin-right: 20px;
+    border-radius: 4px;
+}
+.label3{
+    margin-right: 310px;
+}
+#message{
+    padding-left: 600px;
+    padding-bottom: 100px;
+    margin-bottom: 50px;
+}
+#tel{
+    text-align: right;
+}
+#aside-contact button{
+    width: 100px;
+    border-radius: 15px;
+    height: 30px;
+    margin-right: 20px;
+    border: none;
+    background-color: #56c7d7;
+    color: white;
+    font-family: 'roya';
+    font-size: 17px;
+    margin-bottom: 30px;
+}
+.section-contact{
+    width: 35%;
+    float: left;
+}
+#label-txt{
+    font-size: 20px;
+    font-family: 'roya';
+    color: black;
+}
+#info-txt{
+    margin-right: 20px;
+}
+#call1{
+    color: black;
+    font-size: 20px;
+    font-family: 'roya';
+    padding: 10px 10px;
+}
+form li::marker{
+    color: #56c7d7;
+    font-size: 22px; 
+}
+#label-form{
+    margin-top: 20px;
+    margin-right: 10px;
+    font-family: 'roya';
+    font-size: 18px;
+}
+#info-form{
+    margin-right: 10px;
+    font-family: 'roya';
+    font-size: 18px;
+    color: rgb(132, 132, 132);
+}
+#hr{
+    width: 90%;
+}
+#section-top button{
+    width: 80%;
+    margin: 20px 50px;
+    height: 32px;
+    border: none;
+    background-color: #56c7d7;
+    font-size: 16px;
+    font-family: 'roya';
+    border-radius: 4px;
+    box-shadow: 0px 0px 5px 0px #00000057
+}
+#section-top a{
+    color: white;
+}
+#section-bottem{
+    float: left;
+    margin-bottom: 40px;
+}
+#form3{
+    margin: 20px 0px;
+}
